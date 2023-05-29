@@ -6,6 +6,7 @@
 ##
 
 MAIN	=	sources/main.c 		\
+			sources/exo_1.c 		\
 
 SRC		=
 
